@@ -33,4 +33,4 @@ vignettes/*.pdf
 *.knit.md
 
 # list files to ignore here
-exercise-4/apikey.R
+module11-apis/exercise-4/apikey.R
